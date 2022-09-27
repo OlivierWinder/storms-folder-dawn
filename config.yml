@@ -1,0 +1,6 @@
+development:
+  password: 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
+  theme_id: "136036614379"
+  store: storms-folder-dawn.myshopify.com
+  ignore_files:
+  - config/settings_data.json 
